@@ -1,0 +1,21 @@
+{
+    "Posts": [
+      { 
+      "h1": "Powered by the latest AI", 
+      "p": "GPT-Powered Outreach, 24/7 analysis of all relevant public event data to identify opportunities and pitch your company’s stories faster than the competition. " 
+    },
+    { 
+      "h1": "Build smarter relationships", 
+      "p": "Relentless customized global outreach based on AI-ranked relevancy to your brand. Generate responses that start, nurture, and build personal relationships with media influencers.   Put your execs and your company in the heart of the conversation. No agency. You own your relationships - not your PR firm. " 
+    },
+    { 
+        "h1": "Intelligent personalization, at scale", 
+        "p": "Precisely worded campaigns, aggressively scaled with technology. Faster than humans, more personal than email blasts." 
+      },
+      { 
+        "h1": "Transparent results & reporting", 
+        "p": "PR shouldn’t be a black box, and we’ll never hide poor performance in obscure metrics that don’t really matter. You’ll get complete transparency into every part of our process, and the ability to pivot as fast as you want. " 
+      }
+      
+    ]
+  }
