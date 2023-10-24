@@ -9,7 +9,7 @@ import Typography from '@mui/material/Typography';
 const Maincomp1 = () => {
   return (
     <>
-    <div className='flex justify-center mt-24 ' 
+    <div className='flex justify-center mt-10 ' 
     // style={{ backgroundImage: 'url("/Group (2).png")',backgroundRepeat:"no-repeat"}}
     >
       <div className='mt-10' style={{maxWidth:"30rem"}}>
